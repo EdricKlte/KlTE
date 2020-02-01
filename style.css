@@ -1,0 +1,54 @@
+p{
+color:#829976;
+
+}
+input{
+color:#829976;
+}
+.one {
+	height:600;
+	width:400;
+	max-width:350;
+	background-color:#589c2b;
+}
+.two {
+	color:#829976;
+	height: 400;
+	width: 250;
+	max-width:250;
+	background-color: #bee4ab;
+	border-radius: 15px;
+}
+.pass {
+	text-align:center;
+	border:none;
+	background-color: #bee4ab;
+	border-bottom: 1px solid gray;
+	padding:2px 2px;
+
+}
+.email {
+	text-align:center;
+	border:none;
+	background-color: #bee4ab;
+	border-bottom: 1px solid gray;
+	padding:2px 2px;
+
+}
+
+.login{
+
+	border:none;
+	background-color:#94b481;
+	border-radius:100px;
+	height:50;
+	width:150;
+}
+.register{
+
+	border:none;
+	background-color:#94b481;
+	border-radius:100px;
+	height:50;
+	width:150;
+}
